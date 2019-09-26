@@ -8,6 +8,7 @@ rails new . --api
 
 ## error
 - https://rubyplus.com/articles/5891-Ruby-and-Nokogiri-Gem-Compatibility
+- https://stackoverflow.com/questions/35009531/xcrun-error-active-developer-path-applications-xcode-app-contents-developer
 
 ```rb
 # 先删除了 XCode
